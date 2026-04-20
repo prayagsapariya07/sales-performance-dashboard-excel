@@ -1,5 +1,4 @@
 # sales-performance-dashboard-excel
-# Superstore Sales Excel Dashboard
 
 An interactive **Sales Performance Dashboard** built entirely in Microsoft Excel for the famous Superstore dataset (2014–2017).
 
